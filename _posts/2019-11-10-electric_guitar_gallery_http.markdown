@@ -13,7 +13,7 @@ After inspecting the backend of the website, I had realized that the HTML was ve
 
 So, in order to simplify the idea, I chose another website with less information and much easier div classes so that I may scrape the appropriate data to generate a simple program in Ruby that displays the Top 10 Electric Guitars, a decimal rating from 1.0-5.0, and a short summary reviewing each guitar, as displayed on the website below. 
 
-https://www.guitarfella.com/best-electric-guitar/
+[https://www.guitarfella.com/best-electric-guitar/]
 
 
 Initially I had installed the Nokogiri and Open-URI gems so that I may scrape the data of the website. I had many obstacles on the way, such as noticing extra bits of the website's data which was appearing in my scraper class' results. I had done much research so that I may precisely capture each of the appropriate information extracted in between the HTML coding.
