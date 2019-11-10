@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "**Electric Guitar Gallery **![](http://)"
-date:       2019-11-10 17:51:06 +0000
+title:      "Electric Guitar Gallery"
+date:       2019-11-10 12:51:07 -0500
 permalink:  electric_guitar_gallery_http
 ---
 
