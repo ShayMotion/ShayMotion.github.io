@@ -1,11 +1,11 @@
 # Site settings
 author: Shayan Mohsin
-title: Electric Guitar Gallery 
+title: Making The World a Better Place Through Creativity in Programming. 
 header-img: img/home-bg.png
 email: shaymotionfilms@gmail.com
 copyright_name: Shayan Mohsin
 description: > # this means to ignore newlines until "baseurl:"
-  A CLI Data Gem Project
+  A Blog For Creatives in the Field of Software Engineering.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ShayMotion
