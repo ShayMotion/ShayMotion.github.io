@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Programming a Guitar Gallery Auction in Sinatra"
-date:       2021-01-05 20:05:09 +0000
+date:       2021-01-05 15:05:10 -0500
 permalink:  programming_a_guitar_gallery_auction_in_sinatra
 ---
 
