@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Ruby on Rails Project - The Guitar Gallery"
-date:       2021-01-06 17:28:47 +0000
+date:       2021-01-06 12:28:47 -0500
 permalink:  ruby_on_rails_project_-_the_guitar_gallery
 ---
 
